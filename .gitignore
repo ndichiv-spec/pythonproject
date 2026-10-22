@@ -1,0 +1,13 @@
+# Python project / caches
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ruff_cache/
+
+# Runtime data
+data/
+
+# Temp diagnostics
+.tmp_*
