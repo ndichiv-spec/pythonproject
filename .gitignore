@@ -11,3 +11,10 @@ data/
 
 # Temp diagnostics
 .tmp_*
+
+# PyCharm / IntelliJ IDE files
+.idea/
+*.iml
+
+# Log files
+*.log
